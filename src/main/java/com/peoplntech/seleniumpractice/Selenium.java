@@ -15,7 +15,7 @@ public class Selenium {
         WebDriver driver = new ChromeDriver();
 
         //tell chrome driver to go to url....
-        driver.get("https://www.chrome.com");
+        driver.get("https://www.chrome.com/");
 
         //wait 5 sec
         Thread.sleep(5000);
